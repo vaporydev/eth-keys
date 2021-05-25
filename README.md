@@ -1,4 +1,4 @@
-# Ethereum Keys
+# Vapory Keys
 
 
 A common API for Ethereum key operations with pluggable backends.
